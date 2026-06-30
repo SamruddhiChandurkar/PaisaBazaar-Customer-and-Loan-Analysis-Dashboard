@@ -15,7 +15,6 @@ The objective of this project is to transform raw financial data into meaningful
 
 <img width="1437" height="811" alt="Screenshot 2026-06-20 000152" src="https://github.com/user-attachments/assets/489e87ae-c3d1-4fbb-bf28-90346d2d2295" />
 
-
 ---
 
 ## Business Objective
